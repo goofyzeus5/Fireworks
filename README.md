@@ -216,4 +216,4 @@ Fireworks is available as a full free version with all features and updates incl
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-12 18:23:36 UTC
+**Last updated:** 2026-10-13 01:02:03 UTC
